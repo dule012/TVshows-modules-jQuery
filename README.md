@@ -1,6 +1,5 @@
 Check out the project here: [TV shows](https://dule012.github.io/TVshows-modules-jQuery/)
 
-It works just clone it and try :)
 ## Stack
 ### Language: 
 - HTML5 
