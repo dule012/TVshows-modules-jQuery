@@ -1,4 +1,4 @@
-Check out the project here: [TV shows](https://dule012.github.io/TVshows-modules-jQuery/)
+Check out the project live here: [TV shows](https://dule012.github.io/TVshows-modules-jQuery/)
 
 ## Stack
 ### Language: 
