@@ -1,12 +1,5 @@
 Check out the project live here: [TV shows](https://dule012.github.io/TVshows-modules-jQuery/)
 
-## Stack
-### Language: 
-- HTML5 
-- CSS3
-- JS(ES5) 
-### Libary:
-- jQuery
 
 ## Screenshots:
 
